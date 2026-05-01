@@ -2107,7 +2107,7 @@
     "@faker-js/faker": "^10.3.0",
     "@github/markdownlint-github": "^0.8.0",
     "@jest/environment": "^30.2.0",
-    "@jest/environment-jsdom-abstract": "^30.2.0",
+    "@jest/environment-jsdom-abstract": "^30.3.0",
     "@microsoft/eslint-formatter-sarif": "^3.1.0",
     "@playwright/test": "^1.59.1",
     "@storybook/addon-a11y": "^10.3.6",
